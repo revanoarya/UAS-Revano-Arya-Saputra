@@ -115,3 +115,16 @@ lihat data :
 
 [![Screenshot-2021-01-11-185714.png](https://i.postimg.cc/zXpQ91Mb/Screenshot-2021-01-11-185714.png)](https://postimg.cc/fJt591MD)
 
+Cari data :
+
+[![Screenshot-2021-01-11-191123.png](https://i.postimg.cc/63c9SPN9/Screenshot-2021-01-11-191123.png)](https://postimg.cc/bDGcS3JM)
+
+Hapus data :
+
+[![Screenshot-2021-01-11-191256.png](https://i.postimg.cc/ncQy9WwC/Screenshot-2021-01-11-191256.png)](https://postimg.cc/Xp4HTsWb)
+
+Flowchart :
+
+[![flowchart.png](https://i.postimg.cc/jSvYR7FX/flowchart.png)](https://postimg.cc/G4B5QHr8)
+
+Sekian Terimakasih..
