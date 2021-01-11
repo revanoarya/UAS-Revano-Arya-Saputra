@@ -1,6 +1,6 @@
 #UAS Bahasa Pemrograman
 
-[1.png](https://postimg.cc/7GfWhh6n)
+[![1.png](https://i.postimg.cc/nzkbdQfg/1.png)](https://postimg.cc/7GfWhh6n)
 
 Penjelasan:
 
